@@ -15,6 +15,7 @@ main {
     max-height: 600px;
     border-radius: 10px;
     padding: 20px;
+    box-shadow: 0px 1px 6px 1px rgba(0, 0, 0, 0.119);
 }
 h1 {
     font-family: 'Kode Mono';
@@ -42,7 +43,7 @@ article div {
 }
 
 #ferrari {
-    background: red url('../JPEG/logo-ferrari.jpg') center center no-repeat fixed;
+    background: red url('imagens/logo-ferrari.jpg') center center no-repeat fixed;
     background-size: cover;
    top: 50%;
    left: 50%;
@@ -51,7 +52,7 @@ article div {
 }
 
 #lamborghini {
-    background: yellow url('../JPEG/logo-lamborghini.jpg') center center no-repeat fixed;
+    background: yellow url('imagens/logo-lamborghini.jpg') center center no-repeat fixed;
     background-size: cover;
     background-position: center center;
   top: 50%;
@@ -61,7 +62,7 @@ article div {
 }
 
 #mustang {
-    background: darkgray url('../JPEG/logo-mustang-2.jpg') center center no-repeat fixed;
+    background: darkgray url('imagens/logo-mustang-2.jpg') center center no-repeat fixed;
     background-size: cover;
    top: 50%;
    left: 50%;
