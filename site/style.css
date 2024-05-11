@@ -48,7 +48,6 @@ article div {
    top: 50%;
    left: 50%;
    transform: translate(-190%, -50%);
-  
 }
 
 #lamborghini {
@@ -78,7 +77,7 @@ main.video iframe {
     width: 80%;
     height: 80%;
     top: 50%;
-    left: 47%;
+    left: 50%;
 
     transform: translate(-50%, -50%);
 }
